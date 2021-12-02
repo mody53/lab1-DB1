@@ -1,0 +1,29 @@
+rasp:count => 
+2
+scores => 
+WRONGTYPE Operation against a key holding the wrong kind of value
+priv => 
+WRONGTYPE Operation against a key holding the wrong kind of value
+rasp => 
+ ural
+ http://urfu.ru/ru/students/study/schedule/
+ count
+ 0
+ url
+ http://urfu.ru/ru/students/study/schedule/
+mail => 
+ url
+ http://mail.urfu.ru
+urfu => 
+WRONGTYPE Operation against a key holding the wrong kind of value
+rasp:comments => 
+ good
+ nice
+ not bad
+users:msg => 
+{name: mohamed, likes: [redis]}WTF !!111
+users:smg => 
+{name: mohamed, likes: [redis]}
+rtf => 
+ url
+ http://rtf.urfu.ru
